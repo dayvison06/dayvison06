@@ -1,7 +1,8 @@
 <h2 align="center"> Welcome!</h2>
 
 <p>Atualmente venho migrando para o mercado de desenvolvimento, descobrindo novos hobbys e paixões.</p>
-<p>Pretendo ser um desenvolver full stack, no momento, essas são as tecnologias que venho aprendendo</p>
+<p>Pretendo ser um desenvolver full stack, no momento, essas são as tecnologias que venho aprendendo.</p>
+<hr />
 
 <table width="100">
 <tr>
