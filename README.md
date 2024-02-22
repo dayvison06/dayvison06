@@ -27,6 +27,10 @@
             <p>Javascript</p>
         </td>
           <td align='center'>
+            <strong>SQL</strong>
+            <p>MySql</p>
+        </td>
+          <td align='center'>
             <strong>Versionamento</strong>
             <p>Git & GitHub</p>
         </td>
