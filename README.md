@@ -9,24 +9,48 @@
 
 <table align='center' width="100">
 <tr>
+     <tr>
+        <td align='center'>
+            <strong>POO</strong>
+            <p>G#</p>
+        </td>
+    </tr>
     <td align='center' width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
     </td>
+     <tr>
+        <td align='center'>
+            <strong>Web</strong>
+            <p>HTML</p>
+        </td>
+    </tr>
     <td align='center' width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     </td>
+     <tr>
+        <td align='center'>
+            <strong>Web</strong>
+            <p>CSS</p>
+        </td>
+    </tr>
     <td align='center' width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
     </td>
     <td align='center' width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     </td>
+     <tr>
+        <td align='center'>
+            <strong>Web</strong>
+            <p>Javascript</p>
+        </td>
+    </tr>
   <td align='center' width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   </td>
 </tr>
     <tr>
-        <td>
+        <td align='center'>
             <strong>Versionamento</strong>
             <p>Git & GitHub</p>
         </td>
