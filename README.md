@@ -7,16 +7,16 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     </td>
   <td>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
   </td>
 </tr>
 </table>
