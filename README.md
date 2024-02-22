@@ -7,6 +7,9 @@
 <table width="100">
 <tr>
     <td align='center' width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+    </td>
+    <td align='center' width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     </td>
     <td align='center' width="150">
