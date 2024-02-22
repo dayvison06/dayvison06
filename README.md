@@ -6,13 +6,13 @@
 
 <table width="100">
 <tr>
-    <td border-style='none' align='center' width="190">
+    <td align='center' width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     </td>
-    <td align='center' width="190">
+    <td align='center' width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
     </td>
-    <td align='center' width="190">
+    <td align='center' width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     </td>
   <td>
