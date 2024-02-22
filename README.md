@@ -12,7 +12,7 @@
      <tr>
         <td align='center'>
             <strong>POO</strong>
-            <p>G#</p>
+            <p>C#</p>
         </td>
      <td align='center'>
             <strong>Web</strong>
