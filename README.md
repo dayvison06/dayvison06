@@ -26,7 +26,9 @@
   </td>
 </tr>
     <tr>
-        <td></td>
+        <td>
+            <p>Versionamento com Git & GitHub</p>
+        </td>
     </tr>
     <tr>
         <td align='center' width="150">
