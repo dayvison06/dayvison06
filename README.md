@@ -8,7 +8,7 @@
 <hr />
 
 <table align='center' width="100">
-<tr>
+<tr> <!-- Linha 1 -->
      <tr>
         <td align='center'>
             <strong>POO</strong>
@@ -35,7 +35,7 @@
             <p>Git & GitHub</p>
         </td>
     </tr>
-    <tr>
+     <tr> <!-- Linha 2 -->
           <td align='center' width="120">
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
           </td>
@@ -55,4 +55,9 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
         </td>
     </tr>
+     <tr> <!-- Linha 3 -->
+          <td align='center' width="120">
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+             </td>
+     </tr>
 </table>
