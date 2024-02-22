@@ -25,7 +25,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   </td>
 </tr>
-    <hr/>
+    <tr></tr>
     <tr>
         <td align='center' width="150">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
