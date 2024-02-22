@@ -15,8 +15,8 @@
     <td align='center' width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     </td>
-  <td>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+  <td align='center' width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   </td>
 </tr>
 </table>
