@@ -4,7 +4,7 @@
 <p>Pretendo ser um desenvolver full stack, no momento, essas são as tecnologias que venho aprendendo.</p>
 <hr />
 
-<table width="100">
+<table border="0px" width="100">
 <tr>
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
