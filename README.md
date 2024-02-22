@@ -3,7 +3,7 @@
 <hr />
 
 <p>Atualmente venho migrando para o mercado de desenvolvimento, descobrindo novos hobbys e paixões.</p>
-<p>Pretendo ser um desenvolver full stack, no momento, essas são as tecnologias que venho aprendendo.</p>
+<p>Pretendo ser um desenvolver full stack, no momento, essas são as tecnologias que estou aprendendo.</p>
 
 <hr />
 
