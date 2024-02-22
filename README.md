@@ -27,7 +27,8 @@
 </tr>
     <tr>
         <td>
-            <p>Versionamento com Git & GitHub</p>
+            <strong>Versionamento</strong>
+            <p>Git & GitHub</p>
         </td>
     </tr>
     <tr>
