@@ -64,6 +64,14 @@
             <strong>Banco de Dados</strong>
             <p>SQL Server</p>
         </td>
+          <td align='center'>
+            <strong>Banco de Dados</strong>
+            <p>SQL Server</p>
+        </td>
+            <td align='center'>
+            <strong>Banco de Dados</strong>
+            <p>PostgreSQL</p>
+        </td>
      </tr>
       <tr> <!-- Linha 4 -->
           <td align='center' width="150">
@@ -71,6 +79,9 @@
              </td>
            <td align='center' width="150">
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+             </td>
+           <td align='center' width="150">
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
              </td>
      </tr>
 </table>
