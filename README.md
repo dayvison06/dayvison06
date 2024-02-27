@@ -27,7 +27,7 @@
             <p>Javascript</p>
         </td>
           <td align='center'>
-            <strong>SQL</strong>
+            <strong>Banco de Dados</strong>
             <p>MySql</p>
         </td>
           <td align='center'>
@@ -56,8 +56,21 @@
         </td>
     </tr>
      <tr> <!-- Linha 3 -->
+          <td align='center'>
+            <strong>Web</strong>
+            <p>ASP.NET Core</p>
+        </td>
+          <td align='center'>
+            <strong>Banco de Dados</strong>
+            <p>SQL Server</p>
+        </td>
+     </tr>
+      <tr> <!-- Linha 4 -->
           <td align='center' width="120">
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+             </td>
+           <td align='center' width="120">
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
              </td>
      </tr>
 </table>
