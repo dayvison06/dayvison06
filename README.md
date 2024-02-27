@@ -67,11 +67,6 @@
           <td align='center'>
             <strong>Banco de Dados</strong>
             <p>SQL Server</p>
-        </td>
-            <td align='center'>
-            <strong>Banco de Dados</strong>
-            <p>PostgreSQL</p>
-        </td>
      </tr>
       <tr> <!-- Linha 4 -->
           <td align='center' width="150">
