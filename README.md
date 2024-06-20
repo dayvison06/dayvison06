@@ -54,6 +54,9 @@
           <td align='center' width="150">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
         </td>
+          <td align='center' width="150">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+        </td>
     </tr>
      <tr> <!-- Linha 3 -->
           <td align='center'>
@@ -67,6 +70,11 @@
           <td align='center'>
             <strong>Banco de Dados</strong>
             <p>SQL Server</p>
+          </td>
+          <td align='center'>
+            <strong>Laravel</strong>
+            <p>PHP</p
+          </td>
      </tr>
       <tr> <!-- Linha 4 -->
           <td align='center' width="150">
