@@ -54,9 +54,6 @@
           <td align='center' width="150">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
         </td>
-          <td align='center' width="150">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-        </td>
     </tr>
      <tr> <!-- Linha 3 -->
           <td align='center'>
@@ -86,5 +83,8 @@
            <td align='center' width="150">
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
              </td>
+          <td align='center' width="150">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+        </td>
      </tr>
 </table>
