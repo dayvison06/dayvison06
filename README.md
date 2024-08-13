@@ -1,4 +1,11 @@
-<h2 align="center">👋 Welcome Nobre</h2>
+<div align="center">
+
+ <h2 align="center">👋 Welcome Nobre</h2>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayvison-rocha-pereira/)
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dayvison.rocha@hotmail.com)
+
+</div>
 
 <hr />
 
@@ -20,5 +27,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🌐 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayvison-rocha-pereira/)
-[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dayvison.rocha@hotmail.com)
+
