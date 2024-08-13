@@ -7,4 +7,4 @@
 
 [![Dayvison GitHub stats](https://github-readme-stats.vercel.app/api?username=dayvison06)](https://github.com/dayvison06/github-readme-stats)
 
-<a>https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white</a>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
